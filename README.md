@@ -15,3 +15,6 @@
 - 已修改HelloWorld.java文件并在newbranch分支上提交了更改。
 - 已修改README.md文件并在master分支上提交了更改。
 - 已将newbranch分支合并到master分支上,合并时自动提交。
+## Question 7
+- 新建一个分支，修改README.md文件中的某一行提交，然后切换回原来的分支，修改README.md文件中的同 一行提交。这时将新分支合并到当前分支后，
+- 
