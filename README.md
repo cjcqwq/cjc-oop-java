@@ -8,4 +8,8 @@
 - 改变后查询当前仓库状态，会提示目录仓库下未提交的更改和未跟踪的文件，并显示no changes added to commit (use "git add" and/or "git commit -a")
 - 新增的信息说明Git可以检查已跟踪文件是否更改以及仓库目录下新加入的未跟踪文件。
 ## Question5
-- HelloWorld.java文件的功能为输出既定次数的Hello World！字符串。
+- HelloWorld.java文件的功能为输出既定次数的"Hello World！"字符串。
+- 不同文件修改的分次提交依赖的是Git的“暂存区”功能，提交时只会提交暂存区中的文件更改，而不会提交工作区中未添加到暂存区的更改。
+## Question 6
+- 当前分支名称为master。
+- 已修改HelloWorld.java文件并在newbranch分支上提交了更改。
