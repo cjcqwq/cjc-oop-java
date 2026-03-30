@@ -16,4 +16,4 @@
 - 已修改README.md文件并在master分支上提交了更改。
 - 已将newbranch分支合并到master分支上,合并时自动提交。
 ## Question 7
-- 修改并在master分支上提交。
+- 修改并在branch1分支上提交。
